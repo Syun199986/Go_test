@@ -4,7 +4,7 @@ import (
 	"strconv"
 )
 
-func Omikuzi() {
+func Even_odd() {
 	for i := 1; i <= 100; i++ {
 		str_i := strconv.Itoa(i)
 		if i % 2 == 0 {
