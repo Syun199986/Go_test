@@ -4,5 +4,5 @@ func main() {
 	// Basics()
 	// Even_odd()
 	// Omikuzi()
-	Type_change()
+	Built_in_type1()
 }
