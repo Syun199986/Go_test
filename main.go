@@ -3,5 +3,6 @@ package main
 func main() {
 	// Basics()
 	// Even_odd()
-	Omikuzi()
+	// Omikuzi()
+	Func_and_type()
 }
